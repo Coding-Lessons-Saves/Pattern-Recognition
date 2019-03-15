@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author: Siddheswar C
+# @Email: innocentdevil.sid007@gmail.com
+
+
 import tensorflow as tf
 from BayesianDecision import DiscriminantAnalysis
 from confusion_matrix import ConfusionMatrix
